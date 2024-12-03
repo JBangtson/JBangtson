@@ -1,4 +1,5 @@
-## Hi there 👋
+# Justin Bangtson
+## Curious Data Explorer 👨‍🚀
 
 <!--
 **JBangtson/JBangtson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
