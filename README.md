@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Justin Bangtson 👋</h1>
-<h2 align="center">(Juh-stin Bang-son)</h2>
+<h3 align="center">(Juh-stin Bang-son)</h3>
 <h2 align="center">I'm a passionate learner of programming, data science, and the world we live in. <br><br>Thank you for stopping by, and take care! 🤙</h2>
 
 <div align="center">
