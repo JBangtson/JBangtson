@@ -31,7 +31,10 @@ TK
 - [Business Analytics - Financial Institution Clustering](https://github.com/JBangtson/financial_institution_survey_clustering)
 
 <h2>Lower Dimension - Dimension Reduction</h2>
-TK
+
+- [Grocery Store Transactions - Principle Component Analysis (PCA)](https://github.com/JBangtson/wedge_PCA)
+
+
 <h1>Data Engineering</h1>
 
 - [Google Big Query - Cost Analysis and Solutions](https://github.com/JBangtson/big_query_costs)
