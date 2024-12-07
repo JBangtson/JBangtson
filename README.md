@@ -11,8 +11,8 @@
 
 <h1>Data Analytics - Supervised Learning</h1>
 <h2>Category - Classification</h2>
+TK
 
-- [Business Analytics - Financial Institution Clustering](https://github.com/JBangtson/financial_institution_survey_clustering)
 
 <h2>Data Analytics - Regression</h2>
 
@@ -23,7 +23,9 @@
 <h1>Data Science - Unsupervised Learning</h1>
 
 <h2>Group - Clustering</h2>
-TK
+
+- [Business Analytics - Financial Institution Clustering](https://github.com/JBangtson/financial_institution_survey_clustering)
+
 <h2>Lower Dimension - Dimension Reduction</h2>
 TK
 <h1>Data Engineering</h1>
