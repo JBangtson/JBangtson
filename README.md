@@ -21,15 +21,15 @@ TK
 
 <h2>Data Analytics - Regression</h2>
 
-- [Business Analytics - Diamond Supplier Cost Analysis](https://github.com/JBangtson/diamonds-report)
+- [Business Analytics - Diamond Supplier Cost Analysis XGBoost](https://github.com/JBangtson/diamonds-report)
 
-- [Business Analytics - Synthetic Data Daily Skiier  Traffic Analysis](https://github.com/JBangtson/skiing-analysis-synthetic-data-tidyverse)
+- [Business Analytics - Synthetic Data Daily Skiier  Traffic Analysis Linear Regression](https://github.com/JBangtson/skiing-analysis-synthetic-data-tidyverse)
 
 <h1>Data Science - Unsupervised Learning</h1>
 
 <h2>Group - Clustering</h2>
 
-- [Business Analytics - Financial Institution Clustering](https://github.com/JBangtson/financial_institution_survey_clustering)
+- [Business Analytics - Financial Institution K-Means Clustering](https://github.com/JBangtson/financial_institution_survey_clustering)
 
 <h2>Lower Dimension - Dimension Reduction</h2>
 
