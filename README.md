@@ -26,7 +26,7 @@
 
 - [Business Analytics - Synthetic Data Daily Skiier  Traffic Analysis Linear Regression](https://github.com/JBangtson/skiing-analysis-synthetic-data-tidyverse)
 
-<h1>Data Science - Unsupervised Learning</h1>
+<h1>Data Analytics - Unsupervised Learning</h1>
 
 <h2>Group - Clustering</h2>
 
