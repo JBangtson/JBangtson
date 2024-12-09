@@ -16,7 +16,8 @@
 
 <h1>Data Analytics - Supervised Learning</h1>
 <h2>Category - Classification</h2>
-TK
+
+- [Data Analytics - Heart Attack Classifications Using Logistic Regression](https://github.com/JBangtson/diamonds-report)
 
 
 <h2>Data Analytics - Regression</h2>
