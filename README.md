@@ -12,41 +12,19 @@
 
 </div>
 
+# Projects
+ 
+### [Data Analytics - Supervised Learning](data_analytics_supervised.md)
+
+### [Data Analytics - Unsupervised Learning](data_analytics_unsupervised.md)
+
+### [Data Engineering](data_engineering.md)
+
+### [Data Visualizations and Dashboards](data_viz.md)
 
 
-<h1>Data Analytics - Supervised Learning</h1>
-<h2>Category - Classification</h2>
+# Additional Information
 
-- [Data Analytics - Heart Attack Classifications Using Logistic Regression](https://github.com/JBangtson/heart_attack_classification)
-
-
-<h2>Data Analytics - Regression</h2>
-
-- [Business Analytics - Diamond Supplier Cost Analysis XGBoost](https://github.com/JBangtson/diamonds-report)
-- [Business Analytics - Synthetic Data Daily Skiier  Traffic Analysis Linear Regression](https://github.com/JBangtson/skiing-analysis-synthetic-data-tidyverse)
-
-<h1>Data Analytics - Unsupervised Learning</h1>
-
-<h2>Group - Clustering</h2>
-
-- [Business Analytics - Financial Institution K-Means Clustering](https://github.com/JBangtson/financial_institution_survey_clustering)
-
-<h2>Lower Dimension - Dimension Reduction</h2>
-
-- [Business Analytics - Financial Company Survey Principle Component Analysis (PCA)](https://github.com/JBangtson/financial_survey_pca)
-- [Grocery Store Transactions - Principle Component Analysis (PCA)](https://github.com/JBangtson/wedge_PCA)
-
-
-<h1>Data Engineering</h1>
-
-- [Google Big Query - Cost Analysis and Solutions](https://github.com/JBangtson/big_query_costs)
-- [Grocery Store POS ETL - Wedge Co-Op Big Data](https://github.com/JBangtson/Wedge_Project)
-
-<h1>Data Visualizations and Dashboards</h1>
-
-- [Chassis Cache - Custom Used Car Dashboard from Javascript](https://github.com/JBangtson/chassis_cache_dashboard)
-- [Subaru Forester Dashboard - Used Car Dashboard from Shiny in R](https://github.com/JBangtson/Subaru-Forester-Craiglist-Dashboard)
-
-<h3>This is my <a href="assets/JustinBangtson_resume.pdf" target="blank">resume</a>!<br>  Reach me at <a href="mailto:bangtson.justin@gmail.com" target="blank">Bangtson.Justin@gmail.com</a>!<br>  Connect with me on <a href="https://www.linkedin.com/in/justin-bangtson/" target="blank">LinkedIn</a>!</h3>
+<h3>Reach me here <a href="mailto:bangtson.justin@gmail.com" target="blank">Bangtson.Justin@gmail.com</a><br>  Connect with me on <a href="https://www.linkedin.com/in/justin-bangtson/" target="blank">LinkedIn</a><br><a href="assets/JustinBangtson_resume.pdf" target="blank">Resume</a>  </h3>
 
 
