@@ -6,7 +6,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JBangtson&theme=nord_dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JBangtson&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JBangtson&theme=nord_dark) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JBangtson&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JBangtson&theme=nord_dark&utcOffset=-7) 
 
