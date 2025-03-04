@@ -2,6 +2,6 @@
 
 <br>  Connect with me on <a href="https://www.linkedin.com/in/justin-bangtson/" target="blank">LinkedIn</a><br>
 
-<a href="assets/JustinBangtson_resume.pdf" target="blank">My Current Resume</a>  </h3>
+<a href="assets/JustinBangtson_resume.pdf" target="blank">My Resume</a>  </h3>
 
 
